@@ -1,0 +1,15 @@
+﻿生成启动时间为 2014/7/8 17:20:08。
+     1>项目“G:\WORK_PROJECTS\福彩3D彩票选号程序\福彩3D彩票选号程序\福彩3D彩票选号程序.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\WORK_PROJECTS\福彩3D彩票选号程序\Debug\福彩3D彩票选号程序.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\WORK_PROJECTS\福彩3D彩票选号程序\Debug\福彩3D彩票选号程序.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\WORK_PROJECTS\福彩3D彩票选号程序\Debug\福彩3D彩票选号程序.lib" /MACHINE:X86 Debug\kill_num.obj
+         Debug\main.obj
+         Debug\tools.obj
+         福彩3D彩票选号程序.vcxproj -> G:\WORK_PROJECTS\福彩3D彩票选号程序\Debug\福彩3D彩票选号程序.exe
+     1>已完成生成项目“G:\WORK_PROJECTS\福彩3D彩票选号程序\福彩3D彩票选号程序\福彩3D彩票选号程序.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.35
